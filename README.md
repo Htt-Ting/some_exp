@@ -1,19 +1,19 @@
 # some_exp
 Transforming knowledge into code.
 
-##enviroment about ml training
+## enviroment about ml training
 - cuda、cudnn
 - python
 - pytorch、tensorflow、mxnet、paddlepaddle
 
-##book
+## book
 - 《机器学习》
 - 《动手学深度学习》
 
-##vedio
+## vedio
 - llm
 - prompt engineering
 
-##other
+## other
 - internlm
 
