@@ -5,6 +5,7 @@ Transforming knowledge into code.
 - cuda、cudnn
 - python
 - pytorch、tensorflow、mxnet、paddlepaddle
+- jupyter notebook
 
 ## book
 - 《机器学习》
