@@ -19,4 +19,5 @@ Transforming knowledge into code.
 
 ## other
 - internlm
+- stable diffusion
 
